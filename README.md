@@ -47,6 +47,40 @@
 
 「USE_xxxx」の値を変更することでハードウェアの拡張が可能です。
 
+## How to use
+
+【7】【8】【9】【-】
+
+【4】【5】【6】【-】
+
+【1】【2】【3】【-】
+
+【0】【-】【-】【ENTER】
+
+テンキーの4/6または2/8でメニューを選択。ENTERで決定します。決定すると次のデモを行います。
+
+・"LAND"：3Dっぽい表示デモ。
+
+・"CHARA"：文字を表示する。
+
+・"LINE"：ラインの描画。
+
+・"RTC"：RTCから日付と時間を読み取る。
+
+・"AUDIO"：スピーカーからサウンド出力。
+
+・"MOTOR"：モーターを動かす。
+
+・"FIGHT"：スペースインベーダーっぽい表示デモ。
+
+・"VECTOL"：ベクトル表示デモ。
+
+・"LIFE"：ライフゲーム。
+
+・"BALL"：ボールが画面を反射する。
+
+・"VMETER"：グラフ表示のデモ。
+
 ![diykeypad2](https://github.com/nicotakuya/DIY-Keypad/assets/5597377/a044840a-88f4-4b52-9e44-504904a59823)
 
 ![diykeypad3](https://github.com/nicotakuya/DIY-Keypad/assets/5597377/9c18563f-ab75-4c61-ac9c-52dfe676f512)
