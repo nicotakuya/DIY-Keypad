@@ -47,3 +47,4 @@
 
 ![diykeypad2](https://github.com/nicotakuya/DIY-Keypad/assets/5597377/a044840a-88f4-4b52-9e44-504904a59823)
 
+![diykeypad3](https://github.com/nicotakuya/DIY-Keypad/assets/5597377/9c18563f-ab75-4c61-ac9c-52dfe676f512)
