@@ -1,7 +1,9 @@
 # DIY-Keypad
 ## Overview
 
-Raspberry Pi Picoを使ったマイコンボードです。
+汎用的なマイコンボードです。
+
+![diykeypad1](https://github.com/nicotakuya/DIY-Keypad/assets/5597377/bb161106-6f67-42ac-91a7-05f0ece821bf)
 
 ## Files
 
@@ -35,6 +37,11 @@ Raspberry Pi Picoを使ったマイコンボードです。
 
 開発環境はArduino IDE。ボード設定はArduino-Pico(Earle F.philhower氏開発)を使用しています。
 
-ソースコードの「DISP_TYPE」「DISP_ROTALE」を修正します。
+ソースコードの「DISP_TYPE」を変更すると、対応するディスプレイを変えることができます。
+
+「DISP_ROTALE」を変更すると、90度単位で表示内容を回転させることができます。
 
 「USE_xxxx」の値を変更することでハードウェアの拡張が可能です。
+
+![diykeypad2](https://github.com/nicotakuya/DIY-Keypad/assets/5597377/a044840a-88f4-4b52-9e44-504904a59823)
+
