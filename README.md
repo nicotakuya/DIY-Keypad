@@ -1,7 +1,7 @@
 # DIY-Keypad
 ## Overview
 
-汎用的なマイコンボードです。
+汎用的なマイコンボードを自作するプロジェクトです。
 
 ![diykeypad1](https://github.com/nicotakuya/DIY-Keypad/assets/5597377/bb161106-6f67-42ac-91a7-05f0ece821bf)
 
@@ -21,9 +21,11 @@
 
 ## Parts
 
+部品は全て秋月電子通商で入手可能です。
+
 ・Raspberry Pi Pico/W。
 
-・ディスプレイ。AE-ATM0177B3A / AE-ATM0130B3 / SSD1306のいずれか1つが必要です。
+・ディスプレイ。AE-ATM0177B3A / AE-ATM0130B3 / SSD1306のうち、いずれか1つが必要です。
 
 ・タクトスイッチ x 16。
 
