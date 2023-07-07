@@ -13,6 +13,8 @@
 
 ・diykeypad_sch.png : Schematic.
 
+![stlfile_preview](https://github.com/nicotakuya/DIY-Keypad/assets/5597377/e94f9b40-5464-4ff2-a039-9a55992820aa)
+
 ・gattai_b_h4tan3.stl : AA Battery mount(for 3D printer).
 
 ・gattai_b_h4tan4.stl : AAA Battery mount(for 3D printer).
@@ -31,9 +33,9 @@
 
 ・スライドスイッチ。
 
-・ユニバーサル基板。
+・Bタイプ ユニバーサル基板。
 
-・電池ボックス。
+・単三または単四型x2 電池ボックス。
 
 ## How to Build
 
