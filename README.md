@@ -9,13 +9,13 @@
 
 ・8x8font.h : Font file.
 
-・diykeypad.ino : Source file(for Arduino).
+・diykeypad.ino : Source file(for Arduino-Pico).
 
 ・diykeypad_sch.png : Schematic.
 
-・gattai_b_h4tan3.stl : AA Battery mount(for 3D printer).
+・gattai_b_h4tan3.stl : AA Battery x2 mount(for 3D printer).
 
-・gattai_b_h4tan4.stl : AAA Battery mount(for 3D printer).
+・gattai_b_h4tan4.stl : AAA Battery x2 mount(for 3D printer).
 
 ・pico_cover.stl : Raspberry Pi Pico cover(for 3D printer).
 
@@ -27,25 +27,27 @@
 
 ・ディスプレイ。AE-ATM0177B3A / AE-ATM0130B3 / SSD1306のうち、いずれか1つが必要です。
 
-・タクトスイッチ x 16。
+・タクトスイッチ x 16個。
 
 ・スライドスイッチ。
 
 ・Bタイプ ユニバーサル基板。
 
-・単三または単四型x2 電池ボックス。
+・電池ボックス。
 
 ## How to Build
 
 開発環境はArduino IDE。ボード設定はArduino-Pico(Earle F.philhower氏開発)を使用しています。
 
-ソースコードの「DISP_TYPE」を変更すると、対応するディスプレイを変えることができます。
+ソースコードの「DISP_TYPE」の値を変更すると、表示するディスプレイを変えることができます。
 
 「DISP_ROTALE」を変更すると、90度単位で表示内容を回転させることができます。
 
 「USE_xxxx」の値を変更することでハードウェアの拡張が可能です。
 
 ## How to use
+
+テンキーのレイアウトは以下の通り。
 
 【7】【8】【9】【-】
 
@@ -55,7 +57,7 @@
 
 【0】【-】【-】【ENTER】
 
-テンキーの4/6または2/8でメニューを選択。ENTERで決定します。決定すると次のデモを行います。
+メニューを選択は「4」「6」または「2」「8」キー。決定は「ENTER」キーです。決定すると次のデモを行います。
 
 ・"LAND"：3Dっぽい表示デモ。
 
@@ -63,11 +65,11 @@
 
 ・"LINE"：ラインの描画。
 
-・"RTC"：RTCから日付と時間を読み取る。
+・"RTC"：RTCから日付と時間を読み取って表示。
 
 ・"AUDIO"：スピーカーからサウンド出力。
 
-・"MOTOR"：モーターを動かす。
+・"MOTOR"：振動モーターを動かす。
 
 ・"FIGHT"：スペースインベーダーっぽい表示デモ。
 
