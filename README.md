@@ -1,13 +1,12 @@
 # DIY Keypad
-## Overview
-
-汎用的なマイコンボードを自作するプロジェクトです。
-
 ![diykeypad1](https://github.com/nicotakuya/DIY-Keypad/assets/5597377/bb161106-6f67-42ac-91a7-05f0ece821bf)
+
+## Overview
+汎用的なマイコンボードを自作するプロジェクトです。
 
 ## Files
 
-・8x8font.h : Font file.
+・8x8font.h : Font file. https://github.com/nicotakuya/8pixelfont
 
 ・diykeypad.ino : Source file(for Arduino-Pico).
 
