@@ -16,7 +16,7 @@
 
 ・gattai_b_h4tan4.stl : AAA Battery x2 mount(for 3D printer).
 
-・pico_cover.stl : Raspberry Pi Pico cover(for 3D printer).
+・pico_cover.stl : Raspberry Pi Pico cover(for 3D printer). https://github.com/nicotakuya/pico-cover
 
 ## Parts
 
